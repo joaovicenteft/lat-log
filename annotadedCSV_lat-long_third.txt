@@ -2,5 +2,5 @@
 #datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string
 #default,_result,,,,,,,,,
 ,result,table,_start,_stop,_time,_value,_field,_measurement,shelter,type
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,24,latitude,26,saudi,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:51:48.852085Z,26,longitude,24,saudi,calico
+,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,24,latitude,54,saudi,calico
+,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:51:48.852085Z,24,longitude,54,saudi,calico
