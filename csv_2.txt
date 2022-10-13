@@ -1,4 +1,4 @@
-#constant measurement,datatest
+#constant time,value,measurement,datatest
 #datatype time,long,long,string
 time,temp,raw,SN
 1539250260,21,409,ABC3
