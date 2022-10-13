@@ -1,6 +1,6 @@
-#group,false,false,true,true,false,false,true,true,true
-#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,double,string
-#default,_result,,,,,,,
-,result,table,_start,_stop,_time,_value,_field, _value, _field
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,24,latitude, 54, long
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:51:48.852085Z,24,latitude2, 54, long2
+#group,false,false,true,true,false,false,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,double
+#default,_result,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,_field,_measurement
+,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,24,latitude,54,long,24
+,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:51:48.852085Z,24,longitude,54,lat,54
