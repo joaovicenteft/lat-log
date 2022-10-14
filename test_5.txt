@@ -1,0 +1,6 @@
+#group,false,false,true,false,false,true,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string
+#default,_result,,,,,,,
+,result,table,_start_, _time,_value,_field,_measurement,type
+,,0,2020-05-15T00:00:00Z,2020-05-15T18:50:33.262484Z,-3.11866,latitude,manaus,calico
+,,0,2020-05-15T00:00:00Z,2020-05-15T18:50:33.262484Z,-60.0212,longitude,manaus,calico
