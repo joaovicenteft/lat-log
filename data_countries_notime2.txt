@@ -1,0 +1,20 @@
+#group,false,false,false,true,true,true,true
+#datatype,string,long,double,string,double,string,string
+#default,_result,,,,,,,,,
+,result,table,_value,_field,_value2,_measurement,type
+,,-3.11866,latitude,54,manaus,calico
+,,-60.0212,longitude,24,manaus,calico
+,,-25.4195,latitude,24,curitiba,calico
+,,-49.4195,longitude,24,curitiba,calico
+,,-9.66599,latitude,24,maceio,calico
+,,-35.735,longitude,24,maceio,calico
+,,-23.5329,latitude,24,sao paulo,calico
+,,-46.6395,longitude,24,sao paulo,calico
+,,-27.5945,latitude,24,floripa,calico
+,,-48.5477,longitude,24,floripa,calico
+,,-3.71664,latitude,24,fortaleza,calico
+,,-38.5423,longitude,24,fortaleza,calico
+,,-16.6864,latitude,24,goiania,calico
+,,-49.2643,longitude,24,goiania,calico
+,,-1.4554,latitude,24,belem,calico
+,,-48.4898,longitude,24,belem,calico
