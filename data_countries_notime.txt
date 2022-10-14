@@ -1,0 +1,8 @@
+#group,false,false,true,true,false,false,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,double,string,string
+#default,_result,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_value2,_measurement,type
+,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,24,latitude,54,saudi,calico
+,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,54,longitude,24,saudi,calico
+,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-25.4195,latitude,24,curitiba,calico
+,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-49.4195,longitude,24,curitiba,calico
