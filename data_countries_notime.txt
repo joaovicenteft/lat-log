@@ -1,20 +1,20 @@
-#group,false,false,true,true,false,false,true,true,true,true
-#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,double,string,string
+#group,false,false,false,true,true,true,true
+#datatype,string,long,double,string,double,string,string
 #default,_result,,,,,,,,,
-,result,table,_start,_stop,_time,_value,_field,_value2,_measurement,type
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-3.11866,latitude,54,manaus,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-60.0212,longitude,24,manaus,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-25.4195,latitude,24,curitiba,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-49.4195,longitude,24,curitiba,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-9.66599,latitude,24,maceio,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-35.735,longitude,24,maceio,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-23.5329,latitude,24,sao paulo,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-46.6395,longitude,24,sao paulo,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-27.5945,latitude,24,floripa,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-48.5477,longitude,24,floripa,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-3.71664,latitude,24,fortaleza,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-38.5423,longitude,24,fortaleza,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-16.6864,latitude,24,goiania,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-49.2643,longitude,24,goiania,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-1.4554,latitude,24,belem,calico
-,,0,2020-05-15T00:00:00Z,2020-05-16T00:00:00Z,2020-05-15T18:50:33.262484Z,-48.4898,longitude,24,belem,calico
+,result,table,_value,_field,_value2,_measurement,type
+,,-3.11866,latitude,54,manaus,calico
+,,-60.0212,longitude,24,manaus,calico
+,,-25.4195,latitude,24,curitiba,calico
+,,-49.4195,longitude,24,curitiba,calico
+,,-9.66599,latitude,24,maceio,calico
+,,-35.735,longitude,24,maceio,calico
+,,-23.5329,latitude,24,sao paulo,calico
+,,-46.6395,longitude,24,sao paulo,calico
+,,-27.5945,latitude,24,floripa,calico
+,,-48.5477,longitude,24,floripa,calico
+,,-3.71664,latitude,24,fortaleza,calico
+,,-38.5423,longitude,24,fortaleza,calico
+,,-16.6864,latitude,24,goiania,calico
+,,-49.2643,longitude,24,goiania,calico
+,,-1.4554,latitude,24,belem,calico
+,,-48.4898,longitude,24,belem,calico
